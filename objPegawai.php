@@ -31,7 +31,7 @@ $pegawai = [$p1, $p2, $p3, $p4, $p5, $p6];
     <main>
       <div class="container py-5">
         <div class="table-responsive">
-          <table class="table table-bordered align-middle">
+          <table class="table table-secondary table-bordered table-striped align-middle">
             <thead class="table-dark text-center">
               <tr>
                 <?php
